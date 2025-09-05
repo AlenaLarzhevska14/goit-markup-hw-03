@@ -371,12 +371,13 @@ padding-bottom: 120px;
     padding-top: 100px;
     margin-bottom: 16px;
     display: flex;
-    
+
 }
 
 
 .logo-studio {
-color: #f4f4fd;
+    color: #f4f4fd;
+    display: inline-block;
 }
 
 
@@ -388,4 +389,5 @@ color: #f4f4fd;
     letter-spacing: 0.02em;
     max-width: 264px;
     margin-bottom: 100px;
+   
 }
