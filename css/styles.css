@@ -342,6 +342,7 @@ background-color: #404BBF;
 }
 
 .team-item{
+  
    
 }
 
@@ -356,6 +357,11 @@ background-color: #404BBF;
    
 }
 
+.info {
+    padding-top: 32px;
+    padding-left: 32px;
+    margin: 8px;
+}
 
 
 /* ----------FOOTER------------ */
