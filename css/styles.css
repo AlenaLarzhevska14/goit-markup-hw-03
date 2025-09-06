@@ -256,15 +256,12 @@ background-color: #404BBF;
     border-radius: 0 0 4px 4px;
     padding: 0px 0px 32px;
     calc((100% - 72px) / 6)
-    padding-top: 32px;
-    padding-bottom: 8px;
-        
+    
 }
 
 
 .team-image {
  
-    margin-bottom: 32px;
     
 }
 
@@ -308,15 +305,11 @@ background-color: #404BBF;
 }
 .team-title {
     font-family: "Roboto", sans-serif;
-    font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-        padding-top: 120px;
-        padding-bottom: 72px;
+    text-transform: capitalize;
+    margin: 72px 0 0 0;
 }
+        
+    
 
 
 .team-names {
@@ -346,12 +339,12 @@ background-color: #404BBF;
 .team-list{
     display: flex;
     flex-wrap: wrap;
-    gap:24px;
-   
+    gap: 48px 24px;
+
 }
 
 .team-image {
-   margin-bottom: 32px;
+   
 }
 
 
@@ -372,8 +365,7 @@ background-color: #404BBF;
     text-transform: uppercase;
     color: #4d5ae5;
     margin-bottom: 16px;
-    display: flex;
-
+    display: inline-block;
 }
 
 
