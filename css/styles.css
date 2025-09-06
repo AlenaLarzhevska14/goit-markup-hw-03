@@ -306,6 +306,8 @@ background-color: #404BBF;
 
 .team-section-portfolio {
     background-color: #FFFFFF;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 .team-title {
     font-family: "Roboto", sans-serif;
