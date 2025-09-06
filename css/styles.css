@@ -261,7 +261,7 @@ background-color: #404BBF;
     border-radius: 0 0 4px 4px;
     padding: 0px 0px 32px;
     calc((100% - 72px) / 6)
-    gap: 24px;
+   
     
 }
 
@@ -274,7 +274,7 @@ background-color: #404BBF;
 .team-list {
     display: flex;
     flex-wrap: wrap;
-    gap:24px;
+    gap: 48px 24px;
 }       
 
 .team-names {
