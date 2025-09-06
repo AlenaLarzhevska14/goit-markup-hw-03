@@ -252,7 +252,7 @@ background-color: #404BBF;
 
 .team-title {
      text-transform: capitalize;
-        margin: 72px; 0 0 0;     
+        margin-bottom: 72px; 0 0 0;     
 }
 
 .team-item {
@@ -310,13 +310,14 @@ background-color: #404BBF;
 .team-title {
     font-family: "Roboto", sans-serif;
     text-transform: capitalize;
-    margin: 72px 0 0 0;
+    margin-bottom: 72px 0 0 0;
+    text-align: center;
 }
         
     
 
 
-.team-names {
+.team-name {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -326,14 +327,16 @@ background-color: #404BBF;
         padding-bottom: 8px;
 }
 
-.team-roles {
+.team-role {
     background-color: #FFFFFF;
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
-        
+        padding-top: 32px;
+        margin: 8px;
+
 }
 
 .team-item{
