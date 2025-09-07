@@ -273,8 +273,8 @@ background-color: #404BBF;
 
 .team-list {
     display: flex;
-    flex-wrap: wrap;
-    margin: 24px 0;
+        flex-wrap: wrap;
+        gap: 48px 24px;
    
 }       
 
