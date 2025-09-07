@@ -274,9 +274,8 @@ background-color: #404BBF;
 .team-list {
     display: flex;
     flex-wrap: wrap;
-    gap:24px;
-    padding: 0;
-    margin: 0;
+    margin: 24px 0;
+   
 }       
 
 .team-names {
