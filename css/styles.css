@@ -319,6 +319,7 @@ background-color: #404BBF;
     background-color: #FFFFFF;
     padding-top: 120px;
     padding-bottom: 120px;
+    gap: 24px;
 }
 .team-title {
     font-family: "Roboto", sans-serif;
@@ -354,9 +355,6 @@ background-color: #404BBF;
 }
 
 .team-item{
-    display: flex;
-        flex-wrap: wrap;
-        gap: 48px 24px;
    
 }
 
