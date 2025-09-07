@@ -272,8 +272,7 @@ background-color: #404BBF;
 }
 
 .team-list {
-    display: flex;
-    gap:24px;
+
 }       
 
 .team-names {
@@ -359,7 +358,7 @@ background-color: #404BBF;
 .team-list{
     display: flex;
     flex-wrap: wrap;
-    gap: 48px 24px;
+    gap:24px;
 
 }
 
