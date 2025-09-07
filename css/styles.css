@@ -257,7 +257,7 @@ background-color: #404BBF;
 }
 
 .team-item {
-   
+   gap: 24px;
     background-color: #FFFFFF;
     border-radius: 0 0 4px 4px;
     padding: 0px 0px 32px;
